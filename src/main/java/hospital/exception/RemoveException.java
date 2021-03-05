@@ -1,2 +1,7 @@
-package hospital.exception;public class RemoveException {
+package hospital.exception;
+
+public class RemoveException extends Exception{
+    public RemoveException(String message) {
+        super(message);
+    }
 }

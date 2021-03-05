@@ -1,0 +1,11 @@
+hospital\Person.class
+hospital\Diagnosable.class
+hospital\exception\RemoveException.class
+hospital\Hospital.class
+hospital\Employee.class
+hospital\healthpersonal\doctor\Doctor.class
+hospital\healthpersonal\doctor\GeneralPractitioner.class
+hospital\Patient.class
+hospital\Department.class
+hospital\healthpersonal\Nurse.class
+hospital\healthpersonal\doctor\Surgeon.class
